@@ -13,8 +13,7 @@ npm install
 ## How To Run
 
 ```
-(Run backend and frontend)
-npm run dev
+Run backend (:5000) and frontend (:3000) - npm run dev
 ```
 
 
